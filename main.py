@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 这是一个示例 Python 脚本。
 
 # 按 ⌃R 执行或将其替换为您的代码。
@@ -14,3 +15,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
+=======
+666
+>>>>>>> 62fc6ff (Initial commit - add main.py and PyCharm config)
