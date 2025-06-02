@@ -1,10 +1,9 @@
 # AI 聊天机器人服务
 
-一个基于 FastAPI 和 WebSocket 的实时 AI 聊天机器人服务，使用 Coze API 提供智能对话能力。
-
+一个基于 FastAPI 和 WebSocket 的实时 AI 聊天机器人服务，使用 Coze API 提供智能对话能力，支持流式回复。
+## 作者：颜夕
 <<<<<<< HEAD
 =======
-## 演示
 
 ### 聊天界面
 ![聊天界面演示](images/演示%201.png)
